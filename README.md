@@ -1,3 +1,14 @@
+# School website and database viewer
+
+This local website has a school homepage, a site settings page, and a SQL Server records viewer. It uses the installed `sqlcmd` command-line client and Node.js built-ins, so it does not need npm packages.
+
+## Visit the published school website
+
+<a href="[https://binodsarki-design.github.io/Alex/](http://localhost:3000)" target="_blank" rel="noopener noreferrer">Open Brilliant Star English School ↗</a>
+
+
+
+
 # School
 
 School is a web application built with React, TypeScript, and Vite, with an Express server for the application backend.
