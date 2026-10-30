@@ -1,0 +1,6 @@
+{
+  "name": "AuraScribe - Visual Ghostwriter & Narration",
+  "description": "An evocative creative writing suite that transforms visual inspiration into living prose with scene analysis, expressive AI voice narration, and a multi-turn literary co-author.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
